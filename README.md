@@ -68,3 +68,22 @@ user.email=email@example.com
 ### Practice more git commits
 ### Practice
 ### Ecitcarp
+
+## More Practice
+
+### Steps to Push to GitHub
+- git status
+  - informational command
+- git add file-name
+  - staging files
+- git commit -m "active voice and descriptive message"
+  - version control
+  - computer id tracking number
+  - message for our changes
+- git push origin branch-name
+  - right now the branch name is main
+  - reconciles the diff between local and remote
+
+### Assets
+- [India Cohort Syallbus]
+- https://github.com/learn-academy-2023-india/syllabus
