@@ -29,21 +29,21 @@ user.name=Mona Lisa
 user.email=email@example.com
 
 (On GitHub)
-select photo
-developer settings
-personal access tokens
-generate new token
-name your token with something generic
-change EXP date to atleast six months in the future
-select the following scopes:
-    -repo
-    -workflow
-    -admin:org
-    -notifications
-    -user
-click generate token
+- select photo
+- developer settings
+- personal access tokens
+- generate new token
+- name your token with something generic
+- change EXP date to atleast six months in the future
+- select the following scopes:
+    - repo
+    - workflow
+    - admin:org
+    - notifications
+    - user
+- click generate token
     DO NOT NAVIGATE AWAY FROM PAGE UNTIL YOU HAVE COPIED THE TOKEN AND PASTED IT SOMEWHERE IN A SAFE PLACE
-paste the token in a note file for temp storage
+- paste the token in a note file for temp storage
 
 
 ### Steps to Push to GitHub
