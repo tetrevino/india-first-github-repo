@@ -64,3 +64,7 @@ user.email=email@example.com
 - *in terminal*
 - git clone <git link to repo>
 - cd into created folder
+
+### Practice more git commits
+### Practice
+### Ecitcarp
