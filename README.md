@@ -57,3 +57,10 @@ user.email=email@example.com
 ### More changes to practice commits
 ## Practice, practice, practice
 
+## How to clone a repository
+- *while pwd is desktop*
+- navigate to git repo page
+- under green drop down button "Code," copy HTTPS link
+- *in terminal*
+- git clone <git link to repo>
+- cd into created folder
