@@ -52,3 +52,5 @@ user.email=email@example.com
 - git commit -m "Update" (Active voice, descriptive message, version control occurs)
 - git push origin <branch name>
 - reconciles the diff between local and remote
+
+### Another change to practice commits
