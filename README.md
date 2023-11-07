@@ -87,3 +87,14 @@ user.email=email@example.com
 ### Assets
 - [India Cohort Syallbus]
 - https://github.com/learn-academy-2023-india/syllabus
+
+### Navigate branches
+- cd desktop
+- **within desktop repo**
+- git checkout -b tomas-github
+- git branch (tells you all the branches available and which you are on)
+- **create new file**
+- touch github-tt.md (create new file)
+- code .
+- **within vscode**
+- only work within your branch!
