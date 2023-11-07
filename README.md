@@ -44,3 +44,11 @@ select the following scopes:
 click generate token
     DO NOT NAVIGATE AWAY FROM PAGE UNTIL YOU HAVE COPIED THE TOKEN AND PASTED IT SOMEWHERE IN A SAFE PLACE
 paste the token in a note file for temp storage
+
+
+### Steps to Push to GitHub
+- git status (See changes, made)
+- git add <file name> (Stages)
+- git commit -m "Update" (Active voice, descriptive message, version control occurs)
+- git push origin <branch name>
+- reconciles the diff between local and remote
